@@ -9,4 +9,5 @@ a = int(input('a='))
 b = int(input('b='))
 c = int(input('c='))
 d = int(input('d='))
-print('Trung bình cộng a,b,c,d =', (a+b+c+d)/4 )
+s = (a+b+c+d)/4
+print('Trung bình cộng a,b,c,d =', s)
