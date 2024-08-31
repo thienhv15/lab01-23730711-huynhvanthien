@@ -9,7 +9,7 @@ r = float(input("Nhập vào r:"))
 pi = 3.14
 s =  pi * r**2
 c = 2 * pi * r
-if r > 0:
+if r >= 0:
     print('Diện tích của hình tròn là', s)
     print('Chu vi của hình tròn là', c)
 else:
