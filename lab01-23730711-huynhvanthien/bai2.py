@@ -12,7 +12,6 @@ print('Tổng a và b là', a + b)
 print('Hiệu a và b là', a - b)
 print('Tích a và b là', a * b)
 print('Thương a và b là',round(a/b,3))
-print('Chia lấy nguyên a và b là', a // b)
-print('Chia lấy dư a và b là', a % b)
+
 
 
